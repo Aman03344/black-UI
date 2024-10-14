@@ -1,0 +1,60 @@
+@media (max-width:480px) {
+    *{
+
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+
+    .container{
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-heading{
+        width: 100%;
+        height: auto;
+        padding-top: 100px;
+    }
+
+    .btn-heading button{
+        width: 100px;
+        height: 36px;
+        font-weight: 700;
+        letter-spacing: 1px;
+    }
+
+    .btn-heading h1{
+        font-size: 35px;
+        font-weight: 600;
+        padding-block: 10px;
+    }
+
+    .btn-heading p{
+        font-size: 13px;
+        font-weight: 300;
+     }
+
+     .card-con{
+        width: 100%;
+        height: auto;
+     }
+
+     .card1{
+        width: 400px;
+        height: 400px;
+     }
+
+     .card2{
+        width: 400px;
+        height: 400px;
+     }
+
+     .card3{
+        width: 400px;
+        height: 400px;
+     }
+
+    
+}
+
