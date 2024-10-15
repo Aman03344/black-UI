@@ -16,7 +16,7 @@
     .btn-heading{
         width: 100%;
         height: auto;
-        padding-top: 100px;
+        padding-top: 60px;
     }
 
  
@@ -30,6 +30,8 @@
     }
 
     .btn-heading p{
+        width: 100%;
+        height: auto;
         font-size: 13px;
         font-weight: 300;
      }
@@ -37,21 +39,21 @@
      .card-con{
         width: 100%;
         height: auto;
-        padding: 20px;
+        padding: 22px;
      }
 
      .card1{
-        width: 400px;
+        width: 390px;
         height: auto;
      }
 
      .card2{
-        width: 400px;
+        width: 390px;
         height: auto;
      }
 
      .card3{
-        width: 400px;
+        width: 390px;
         height: auto;
      }
 
